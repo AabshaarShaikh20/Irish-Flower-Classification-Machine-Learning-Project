@@ -18,3 +18,7 @@ measurements. This
 
 ![irishflower](https://github.com/AabshaarShaikh20/Irish-Flower-Classification-Machine-Learning-Project/assets/169930813/a4aff0c2-de2c-4318-b791-e2b121188c61)
 
+
+#### Author - Aabshaar Shaikh
+
+#### Email  - aabshaarshaikh@gmail.com 
